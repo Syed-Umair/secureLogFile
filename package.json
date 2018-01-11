@@ -1,0 +1,15 @@
+{
+  "name": "securelogfile",
+  "version": "1.0.0",
+  "description": "Encrypt and Decrypt Log file using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "ursa": "^0.9.4"
+  }
+}

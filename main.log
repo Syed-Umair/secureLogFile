@@ -1,0 +1,322 @@
+09/05/17, 17:52:32.163::info::'Inside crashReportServer.startIncomingPort function:'
+	
+09/05/17, 17:52:32.201::info::'searching for Target : '
+	{ title: 'AnyWhereWorks' }
+	
+09/05/17, 17:52:32.201::info::'ChatContainer is getting opened !! '
+	
+09/05/17, 17:52:32.248::info::'******* boot check started ********** '
+	
+09/05/17, 17:52:32.301::info::'searching for Target : '
+	{ title: 'AnyWhereWorks' }
+	
+09/05/17, 17:52:34.96::info::'searching for Target : '
+	{ title: 'AnyWhereWorks' }
+	
+09/05/17, 17:52:34.98::info::'[ipcModule] : '
+	'container["AnyWhereWorks"], available '
+	
+09/05/17, 17:52:34.871::info::'[ipcModule] : '
+	'Decider Block : crashReporter'
+	
+09/05/17, 17:52:34.887::info::'[ipcModule] : '
+	'Decider Block : userInfo'
+	
+09/05/17, 17:52:34.892::info::'WebContainer is getting opened !! '
+	
+09/05/17, 17:52:34.894::info::'searching for Target : '
+	{ title: 'FULL' }
+	
+09/05/17, 17:52:34.906::info::'searching for Target : '
+	{ title: 'V2' }
+	
+09/05/17, 17:52:34.906::info::'V2Container is getting opened !! '
+	
+09/05/17, 17:52:34.922::info::'[ipcModule] : '
+	'Decider Block : init'
+	
+09/05/17, 17:52:34.926::info::'6.1.0 - Sep,05 2017 17:40'
+	
+09/05/17, 17:52:36.643::info::'[ipcModule] : '
+	'Decider Block : crashReporter'
+	
+09/05/17, 17:52:36.647::info::'searching for Target : '
+	{ title: 'V2' }
+	
+09/05/17, 17:52:36.647::info::'[ipcModule] : '
+	'container["V2"], available '
+	
+09/05/17, 17:52:36.859::info::'[ipcModule] : '
+	'Decider Block : crashReporter'
+	
+09/05/17, 17:52:36.863::info::'searching for Target : '
+	{ title: 'FULL' }
+	
+09/05/17, 17:52:36.863::info::'[ipcModule] : '
+	'container["FULL"], available '
+	
+09/05/17, 17:52:36.923::info::'[ipcModule] : '
+	'Decider Block : open'
+	
+09/05/17, 17:52:36.927::info::'[ipcModule] : '
+	{ eType: 'open',
+  opt: null,
+  options: { x: 601, y: 24 },
+  title: 'Timer' }
+	
+09/05/17, 17:52:36.927::info::'searching for Target : '
+	{ title: 'Timer' }
+	
+09/05/17, 17:52:36.980::info::'[ipcModule] : '
+	'Decider Block : isCrashed'
+	
+09/05/17, 17:52:43.611::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 17:52:43.616::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 17:53:13.26::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 17:53:43.113::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 17:53:53.481::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 17:54:11.46::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 17:57:49.367::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 18:11:45.298::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 18:12:10.975::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 18:15:16.511::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:15:16.528::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:15:16.535::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 18:16:08.814::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:16:08.818::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:25:56.161::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:25:56.167::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:26:37.437::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 18:28:32.485::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:28:32.490::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:39:17.938::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:39:17.944::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:41:51.221::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:41:51.227::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:46:02.453::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:46:02.481::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:46:02.488::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 18:48:28.352::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:48:28.383::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 18:48:28.390::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 19:27:22.898::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:27:22.903::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:29:08.730::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:29:09.193::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 19:29:09.196::info::'Default event in windows Events handler'
+	
+09/05/17, 19:29:10.366::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:29:10.410::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 19:29:10.413::info::'Default event in windows Events handler'
+	
+09/05/17, 19:29:12.264::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 19:29:12.284::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 19:29:12.291::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 19:29:13.941::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:30:16.898::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 19:30:22.931::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 19:30:31.375::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:36:19.795::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 19:36:23.605::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:52:52.149::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 19:53:22.358::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 19:53:22.612::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 20:32:30.564::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 20:32:30.570::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 20:46:17.244::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 20:47:46.648::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 20:47:46.672::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 20:47:46.681::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 20:48:06.579::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 20:51:13.339::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 20:51:13.366::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 20:51:13.375::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 20:58:21.474::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 20:58:21.502::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 20:58:21.510::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 20:58:31.726::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 20:58:33.179::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 20:58:33.469::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 21:01:33.539::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 21:01:33.562::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 21:01:33.571::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:01:37.744::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:01:38.702::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 21:01:39.983::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:01:40.238::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 21:01:40.423::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:04:50.426::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 21:04:50.450::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 21:04:50.456::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:05:04.829::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 21:05:06.336::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:05:06.595::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
+09/05/17, 21:05:06.713::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:11:18.528::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 21:11:18.562::info::'[ipcModule] : '
+	'Decider Block : windowEvents'
+	
+09/05/17, 21:11:18.572::info::'[ipcModule] : '
+	'Decider Block : menuActions'
+	
+09/05/17, 21:11:34.185::info::'[ipcModule] : '
+	'Decider Block : setOverlayIcon'
+	
